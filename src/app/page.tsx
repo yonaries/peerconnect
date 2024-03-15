@@ -104,7 +104,7 @@ export default function Home() {
         <div className='flex justify-between gap-24 rounded-xl bg-[#307B74] p-12 text-white'>
           <div className='px flex-1 space-y-12 px-24'>
             <p className='text-5xl font-bold'>
-              Let's Find You The Perfect Tutor
+              Lets Find You The Perfect Tutor
             </p>
             <p>
               Signup now and get access to our highly experienced tutors who are

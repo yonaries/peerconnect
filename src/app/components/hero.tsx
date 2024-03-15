@@ -13,7 +13,7 @@ function HeroSection({}: Props) {
             <span className='text-orange-500'>PeerConnect</span> Tutors
           </p>
           <p className='text-lg'>
-            Online tutoring in Bangladesh's Best and Largest Plattorm The most
+            Online tutoring in Bangladeshs Best and Largest Plattorm The most
             comprehensive online learning platform
           </p>
           <div className='w-fit cursor-pointer rounded-full bg-orange-500 px-8 py-2 text-white transition-all duration-300 hover:bg-[#307B74]'>

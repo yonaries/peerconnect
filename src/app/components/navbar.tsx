@@ -17,8 +17,10 @@ export default function Navbar({}: Props) {
           <Link href='http://localhost:3000/login'>
             <div className='rounded-full px-6 py-2'>SignIn</div>
           </Link>
-          <Link href='http://localhost:3000/signup'>
-            <div className='rounded-full bg-orange-500 px-6 py-2'>Become a Tutor</div>
+          <Link href='http://localhost:3000/become-tutor'>
+            <div className='rounded-full bg-orange-500 px-6 py-2'>
+              Become a Tutor
+            </div>
           </Link>
         </div>
       </div>

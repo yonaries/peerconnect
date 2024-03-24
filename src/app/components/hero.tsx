@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 import React from 'react'
 
 type Props = {}
@@ -16,9 +17,11 @@ function HeroSection({}: Props) {
             Online tutoring in Bangladeshs Best and Largest Plattorm The most
             comprehensive online learning platform
           </p>
+          <Link href='http://localhost:3000/signup'>
           <div className='w-fit cursor-pointer rounded-full bg-orange-500 px-8 py-2 text-white transition-all duration-300 hover:bg-[#307B74]'>
             Get Started
-          </div>
+            </div>
+          </Link>
         </div>
       </div>
       <div className='hero-pattern w-2/5 bg-orange-300'>

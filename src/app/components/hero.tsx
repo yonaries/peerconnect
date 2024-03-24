@@ -14,7 +14,7 @@ function HeroSection({}: Props) {
             <span className='text-orange-500'>PeerConnect</span> Tutors
           </p>
           <p className='text-lg'>
-            Online tutoring in Bangladeshs Best and Largest Plattorm The most
+            Online tutoring in Ethiopia Best and Largest Plattorm The most
             comprehensive online learning platform
           </p>
           <Link href='http://localhost:3000/signup'>
